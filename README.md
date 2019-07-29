@@ -1,6 +1,5 @@
-# flutter_app
+# AbdOo News
 
-A new Flutter application.
+A Flutter application.
 
-## Getting Started
-
+https://media.giphy.com/media/XFqGGIgR8YZ45qhiHw/giphy.gif
